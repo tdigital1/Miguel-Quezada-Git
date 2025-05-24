@@ -1,0 +1,9 @@
+vamos a crear un archivo de prueba
+aqui dejolos comandos que vamos a uitlizar
+
+git init
+
+git config --global user.name "tdigital1"
+
+git config --global user.email "belmontq@gmail.com"
+
