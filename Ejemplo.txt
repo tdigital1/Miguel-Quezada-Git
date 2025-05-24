@@ -7,3 +7,6 @@ git config --global user.name "tdigital1"
 
 git config --global user.email "belmontq@gmail.com"
 
+git add sirve para agrera archivosgit
+
+esta es una prueba de tdigital1
