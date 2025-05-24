@@ -1,5 +1,5 @@
 vamos a crear un archivo de prueba
-aqui dejolos comandos que vamos a uitlizar
+aqui dejo los comandos que vamos a utilizar
 
 git init
 
